@@ -1,0 +1,11 @@
+Plane 0
+Type: 2
+Position: 0 0 0
+Rotation: 0 0 0
+Scale: 1 0.1 1
+Active: 1
+PhysicsComponent: 0
+Active: 0
+Static: 0
+Gravity: 0
+Mass: 0
